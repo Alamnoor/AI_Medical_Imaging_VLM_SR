@@ -1,0 +1,8 @@
+FINDINGS:
+The image shows a chest X-ray. The lung fields appear clear. The heart size is normal. The mediastinum is unremarkable. No pleural effusion or pneumothorax is seen.
+
+ABNORMALITIES:
+No significant abnormalities are identified.
+
+IMPRESSION:
+No

@@ -1,0 +1,5 @@
+FINDINGS:
+The image is a chest X-ray. The lung fields appear relatively clear, with no obvious consolidation, pleural effusion, or pneumothorax. The heart size appears normal. The mediastinum is unremarkable.
+
+ABNORMALITIES:
+- No obvious consolidation, pleural effusion, or
