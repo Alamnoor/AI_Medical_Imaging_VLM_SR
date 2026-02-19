@@ -2,6 +2,15 @@
 
 This repository implements a three-part deep learning pipeline for pneumonia detection and representation analysis using the PneumoniaMNIST dataset.
 
+## Pretrained Model
+
+The pretrained model is hosted on Google Drive.
+
+Download it here:
+👉 [Download Pretrained Model for task 2](https://drive.google.com/file/d/1_gZhVlnP7vBOj66Fw6X5WUvYS4SaToZ5/view?usp=sharing)
+
+After downloading, place the file inside the `models/` directory.
+
 The project consists of:
 
 1. **Task 1 – CNN Classification (Supervised Learning)**
@@ -287,5 +296,6 @@ Run cells in order:
 For research and educational purposes.
 
 ---
+
 
 
