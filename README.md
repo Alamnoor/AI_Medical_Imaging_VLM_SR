@@ -93,8 +93,8 @@ You can run each task using the provided Colab notebooks.
 2. Extract it
 
 ```python
-!unzip your_repo.zip
-%cd your_repo
+!unzip AI_Medical_Imaging_VLM_SR.zip
+%cd AI_Medical_Imaging_VLM_SR
 !pip install -r requirements.txt
 ```
 
@@ -296,6 +296,7 @@ Run cells in order:
 For research and educational purposes.
 
 ---
+
 
 
 
