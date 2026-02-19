@@ -1,0 +1,64 @@
+image,report
+/home/alam/AnisKoubaa/pneumonia_ai_submission/task2_report_generation/images/img_4_label1.png,"FINDINGS:
+The image is a chest X-ray. The lung fields appear clear. The heart size is normal. The mediastinum is unremarkable. No pleural effusion or pneumothorax is seen.
+
+ABNORMALITIES:
+No significant abnormalities are identified.
+
+IMPRESSION:
+No"
+/home/alam/AnisKoubaa/pneumonia_ai_submission/task2_report_generation/images/img_0_label1.png,"FINDINGS:
+The image is a chest X-ray. The lung fields appear clear. The heart size is normal. The mediastinum is unremarkable. No pleural effusion or pneumothorax is seen.
+
+ABNORMALITIES:
+- No obvious abnormalities are identified.
+
+IMPRESSION:"
+/home/alam/AnisKoubaa/pneumonia_ai_submission/task2_report_generation/images/img_5_label1.png,"FINDINGS:
+The image is a chest X-ray. The lung fields appear clear. The heart size is normal. The mediastinum is unremarkable. No pleural effusion or pneumothorax is seen.
+
+ABNORMALITIES:
+- No obvious abnormalities are identified.
+
+IMPRESSION:"
+/home/alam/AnisKoubaa/pneumonia_ai_submission/task2_report_generation/images/img_7_label1.png,"FINDINGS:
+The image is a chest X-ray. The lung fields appear relatively clear, with no obvious consolidation, pleural effusion, or pneumothorax. The heart size appears normal. The mediastinum is unremarkable.
+
+ABNORMALITIES:
+- No obvious consolidation, pleural effusion, or"
+/home/alam/AnisKoubaa/pneumonia_ai_submission/task2_report_generation/images/img_8_label1.png,"FINDINGS:
+The image is a chest X-ray. The lung fields appear relatively clear, with no obvious consolidation, pleural effusion, or pneumothorax. The heart size appears normal. The mediastinum is unremarkable.
+
+ABNORMALITIES:
+- No obvious consolidation, pleural effusion, or"
+/home/alam/AnisKoubaa/pneumonia_ai_submission/task2_report_generation/images/img_6_label1.png,"FINDINGS:
+The image is a chest X-ray. The lung fields appear relatively clear, with no obvious consolidation, pleural effusion, or pneumothorax. The heart size appears normal. The mediastinum is unremarkable.
+
+ABNORMALITIES:
+- No obvious consolidation, pleural effusion, or"
+/home/alam/AnisKoubaa/pneumonia_ai_submission/task2_report_generation/images/img_9_label0.png,"FINDINGS:
+The image is a chest X-ray. The lung fields appear relatively clear, with no obvious consolidation, pleural effusion, or pneumothorax. The heart size appears normal. The mediastinum is unremarkable.
+
+ABNORMALITIES:
+- No obvious consolidation, pleural effusion, or"
+/home/alam/AnisKoubaa/pneumonia_ai_submission/task2_report_generation/images/img_1_label0.png,"FINDINGS:
+The image is a chest X-ray. The lung fields appear relatively clear, with no obvious consolidation, pleural effusion, or pneumothorax. The heart size appears normal. The mediastinum is unremarkable.
+
+ABNORMALITIES:
+- No obvious consolidation, pleural effusion, or"
+/home/alam/AnisKoubaa/pneumonia_ai_submission/task2_report_generation/images/img_3_label0.png,"FINDINGS:
+The image shows a chest X-ray. The lungs appear clear. The heart size is normal. The mediastinum is unremarkable. No pleural effusion or pneumothorax is seen.
+
+ABNORMALITIES:
+- No obvious abnormalities are identified.
+
+IMPRESSION:
+-"
+/home/alam/AnisKoubaa/pneumonia_ai_submission/task2_report_generation/images/img_2_label1.png,"FINDINGS:
+The image shows a chest X-ray. The lung fields appear clear. The heart size is normal. The mediastinum is unremarkable. No pleural effusion or pneumothorax is seen.
+
+ABNORMALITIES:
+No significant abnormalities are identified.
+
+IMPRESSION:
+No"
