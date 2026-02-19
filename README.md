@@ -1,4 +1,4 @@
-# 🫁 Multimodal Pneumonia Detection & Representation Analysis
+# Multimodal Pneumonia Detection & Representation Analysis
 
 This repository implements a three-part deep learning pipeline for pneumonia detection and representation analysis using the PneumoniaMNIST dataset.
 
@@ -296,6 +296,7 @@ Run cells in order:
 For research and educational purposes.
 
 ---
+
 
 
 
